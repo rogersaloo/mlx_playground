@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+llama/mlx_model/weights_00.safetensors
+llama/tiny_llama_1b.safetensors
 
 # C extensions
 *.so
